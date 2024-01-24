@@ -2,7 +2,7 @@
 - 👀 I’m interested in Meteorology and statistics for extreme events (EVS).
 - 🌱 I’m currently learning multivariate methods for spatial statistics to model rainfall using R.
 - 🤝 I’m looking to collaborate on environmental statistical modeling using R and Bayesian statistics (Stan).
-- 📫 How to reach me: jurado@zedat.fu-berlin.de
+- 📫 How to reach me: ojurado@encit.unam.mx
 
 <!---
 Moca92/Moca92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
